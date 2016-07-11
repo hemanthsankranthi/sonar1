@@ -1,0 +1,5 @@
+sonar.projectVersion=$BUILD_NUMBER
+sonar.sources=H:/devops/Samplejava/SampleExample
+sonar.Password=SampleExample
+sonar.projectKey=HM:SampleExample
+sonar.projectName=SampleExample
